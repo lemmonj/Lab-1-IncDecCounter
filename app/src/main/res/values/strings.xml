@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Lab2A</string>
-    <string name="w">w</string>
-    <string name="welcome_to_rock_paper_scissors_n_please_choose_your_weapon">Welcome to Rock-Paper-Scissors! Please Choose your weapon:</string>
-    <string name="paper">Paper</string>
-    <string name="rock">Rock</string>
-    <string name="scissors">Scissors</string>
-</resources>
