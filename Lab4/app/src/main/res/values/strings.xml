@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="enter_the_total_cost_for_the_meal">Enter cost for the meal.</string>
+    <string name="enter_the_tip_percentage">Enter tip percentage (%)</string>
+    <string name="enter_the_number_of_people">Enter number of people</string>
+    <string name="calculate">Calculate</string>
+</resources>
