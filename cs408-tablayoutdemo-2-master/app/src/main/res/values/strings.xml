@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tab Layout Demo #2</string>
+    <string name="output_field_1">Output Field (Fragment One)</string>
+    <string name="output_field_2">Output Field (Fragment Two)</string>
+    <string name="output_text_1">Hello, World! (Fragment One)</string>
+    <string name="output_text_2">Hello, World! (Fragment Two)</string>
+    <string name="input_button">Click Me!</string>
+    <string name="btn_0">0</string>
+    <string name="btnDecimal">.</string>
+    <string name="btn_2">2</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_6">6</string>
+    <string name="btn_5">5</string>
+    <string name="btn_4">4</string>
+    <string name="btn_3">3</string>
+    <string name="btn_1">1</string>
+    <string name="btnu221a">√</string>
+    <string name="btnu00d7">×</string>
+    <string name="btnu00b1">±</string>
+    <string name="btnplus_sign">+</string>
+    <string name="btnminus_sign">-</string>
+    <string name="btnequal_sign">=</string>
+    <string name="btnc">C</string>
+    <string name="btnpercent_sign">%</string>
+    <string name="btnu00f7">÷</string>
+    <string name="enter_the_total_cost_for_the_meal">Enter cost for the meal.</string>
+    <string name="enter_the_tip_percentage">Enter tip percentage (%)</string>
+    <string name="enter_the_number_of_people">Enter number of people</string>
+    <string name="calculate">Calculate</string>
+</resources>
