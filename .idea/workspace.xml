@@ -5,9 +5,6 @@
       <config />
     </shared>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -27,48 +24,45 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c94bf0e-aa09-4030-9fef-422258b4d24b" name="Default Changelist" comment="Finished Lab2A:RPS">
-      <change afterPath="$PROJECT_DIR$/Lab2A/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/androidTest/java/com/example/lab2a/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/java/com/example/lab2a/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/app/src/test/java/com/example/lab2a/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2A/settings.gradle" afterDir="false" />
+    <list default="true" id="af2009d1-9dc2-4e35-b080-27e23fc62023" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/androidTest/java/com/example/lab5/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/java/com/example/lab5/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/java/com/example/lab5/DatabaseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/java/com/example/lab5/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/app/src/test/java/com/example/lab5/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +78,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1nzcKkTo1TzvToN97hGBAOhfaR4" />
+  <component name="ProjectId" id="1qr3rnKRnL9Ph4WlAxcM85Du025" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,14 +93,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab2A" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.example.lab2a" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -116,8 +103,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Lab2A.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Lab5.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -179,27 +166,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c94bf0e-aa09-4030-9fef-422258b4d24b" name="Default Changelist" comment="" />
-      <created>1612396297275</created>
+      <changelist id="af2009d1-9dc2-4e35-b080-27e23fc62023" name="Default Changelist" comment="" />
+      <created>1617824083001</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612396297275</updated>
+      <updated>1617824083001</updated>
     </task>
-    <task id="LOCAL-00001" summary="Finished Lab2A:RPS">
-      <created>1612408451925</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1612408451925</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Finished Lab2A:RPS">
-      <created>1612408596613</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1612408596613</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,58 +185,10 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finished Lab2A:RPS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Lab2A:RPS" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="728" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1612407404778">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1617828205106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="728" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612407404778" />
-    <state x="1223" y="392" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612398048805">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1223" y="392" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1612398048805" />
-    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1612408377597">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1612408377597" />
-    <state x="804" y="310" key="AndroidCreateXmlResourceDialog" timestamp="1612399992065">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="804" y="310" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612399992065" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612408630312">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612408630312" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1612408433747">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612408433747" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1612408433747">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612408433747" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1612408433747">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612408433747" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1612408433747">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612408433747" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612408481066">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612408481066" />
-    <state x="1256" y="301" key="chooseDestDirectoryDialog" timestamp="1612396706599">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1256" y="301" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612396706599" />
-    <state x="181" y="300" key="run.anything.popup" timestamp="1612401077451">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="181" y="300" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612401077451" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617828205106" />
   </component>
 </project>
