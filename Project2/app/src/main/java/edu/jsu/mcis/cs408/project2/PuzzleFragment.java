@@ -117,7 +117,7 @@ public class PuzzleFragment extends Fragment implements TabFragment {
         builder.setTitle("Enter a Guess");
         builder.setMessage("Enter a Guess: ");
         builder.setView(input);
-        builder.setPositiveButton("Make Guess", new DialogInterface.OnClickListener() {
+        builder.setPositiveButton("Guess", new DialogInterface.OnClickListener() {
 
             @Override
             public void onClick(DialogInterface dialog, int which) {
