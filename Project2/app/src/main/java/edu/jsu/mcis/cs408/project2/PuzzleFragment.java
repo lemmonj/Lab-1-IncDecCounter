@@ -110,6 +110,7 @@ public class PuzzleFragment extends Fragment implements TabFragment {
         Toast.makeText(getActivity(), message, Toast.LENGTH_LONG).show();
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this.getActivity());
+
         final EditText input = new EditText(this.getActivity());
         input.setInputType(InputType.TYPE_CLASS_TEXT);
 
